@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='AndroidUtils'
+//include ':libnetwork','libcommon', ':libnavannotation', ':libnavcompiler',':common','deerletijkplayer'
